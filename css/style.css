@@ -1,0 +1,357 @@
+/*heading start*/
+header{
+	/*border: 1 px solid red;*/
+	
+
+}
+.container{
+	overflow: hidden;
+	/*border: 1px solid red;*/
+margin: 0 auto;	
+width: 70%;
+
+}
+.logo{
+	/*border: 1px solid red;*/
+
+	width: 20%;
+
+}
+.logo a{
+
+}
+.logo a img{
+	float: left;
+
+}
+.menu{
+	margin-top: 0;
+	/*border: 1px solid red;*/
+	width: 70%;
+	float: right;
+	
+}
+.menu ul{
+	margin-top: 0;
+	float: right;
+	list-style: none;
+	
+}
+.menu ul li{
+	float: left;
+
+
+}
+.menu ul li a{
+	margin: 0 5px;
+
+	font-size: 9px;
+
+text-decoration: none;
+}
+.menu ul li a:hover{
+	color: skyblue;
+}
+/*heading start*/
+
+
+
+
+ 
+ /*banner start*/
+.banner{
+	background-image:url(../image/banner.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.b_content{
+	padding-bottom: 7%;
+	width: 40%;
+
+}
+.b_content h1{
+	font-family: sans-serif ;
+	font-size: 38px;
+	font-weight:800 ;
+    color: white;
+    text-transform: capitalize;
+
+}
+.b_content p{
+	color: white;
+	font-size: 10px;
+
+}
+.b_content button{
+	padding-top: 2%;
+	padding-bottom: 2%;
+	color: white;
+	background-color: #B61E37;
+}
+
+
+
+
+
+/*banner ends*/
+
+
+
+/*new_content start*/
+.new_content{
+	/*border: 1px solid red;*/
+}
+
+.container{
+	overflow: hidden;
+
+}
+h2{
+	text-align: center;
+	padding-top: 5%;
+}
+
+.new_text{
+	text-align: center;
+	padding: 0 20% 0 20%;
+}
+
+.new_first{
+	text-align: center;
+	width: 30%;
+	float: left;
+	padding: 5% 1% 1% 2%;
+}
+.new_first p{
+
+}
+
+
+
+
+.new2nd_content{
+	background-color: #FAFAFA;
+
+}
+.container{
+	overflow: hidden;
+
+}
+.heading_content {
+	padding-top: 10%;
+	float: left;
+	width: 40%;
+
+}
+.heading_content h2{
+	text-align: left;
+	font-size: 15px;
+
+}
+.heading_content p{
+	font-size: 12px;
+
+}
+.heading_content button{
+	color: black;
+	background-color: #B61E37;
+
+}
+.video_content{
+	padding-top: 10%;
+	float: right;
+	width: 50%;
+
+}
+/*new_content end*/
+
+
+
+/*Features start*/
+
+.features{
+	padding-top: 5%;
+
+
+}
+
+.container{
+
+
+}
+.first_features h3{
+ text-align: center;
+}
+.first_features p{text-align: center;
+	font-size: 10px;
+
+}
+
+
+.first_content{
+	padding-top: 5%;
+
+	float: left;
+	width: 28%;
+	padding-right: 5%;
+
+}
+.first_content h3{
+	font-size: 13px;
+
+}
+.first_content p{
+	font-size: 8px;
+
+}
+
+.image_content img{
+	padding-left: 25%;
+
+}
+
+/*Features start*/
+
+
+
+
+/*new_button start*/
+.new_button{
+	padding-top: 5% ;
+	padding-bottom: 5%;
+
+	text-align: center;
+	background-color: white;
+
+	
+	
+}
+.new_button button{
+	color: #B61E37;
+
+
+}
+/*new_button end*/
+
+
+
+
+/*last section start*/
+
+.contact_all{
+	
+	background-color: black;
+
+}
+.container{
+
+}
+
+.last_one{
+	padding-left: 0;
+	width: 33%;
+	float: left;
+
+}
+
+.last_one h3{
+	color: white;
+	font-size: 15px;
+	
+
+}
+.last_one ul{
+
+	list-style: none;
+
+
+
+}
+.last_one ul li{
+	font-size: 10px;
+
+	color: #6B6C71;
+	text-decoration: none;
+
+
+}
+.last_one ul li img{
+	padding-right: 3%;
+	float: left;
+	text-decoration: none;
+
+}
+.all_logo{
+
+}
+.all_logo ul{
+
+}
+
+.all_logo ul li{
+	text-decoration: none;
+}
+.last_one p{
+	color: #6B6C71;
+	font-size: 10px;
+
+}
+.search_box{
+
+}
+.search_box input{
+	height: 25px;
+	width: 50%;
+
+}
+.search_box button{
+	height: 30px;
+	background-color: #B61E37;
+
+}
+
+
+
+
+
+
+/*last dection end*/
+
+
+
+
+ /*footer start*/
+
+
+.footer{
+	background-color: #535D69;
+
+
+}
+.container{
+	
+	
+}
+.copyright p{
+	
+	text-align: center;
+	font-size: 12px;
+	color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*footer end*/
